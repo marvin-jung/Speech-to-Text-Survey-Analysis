@@ -6,7 +6,7 @@
 - Jisung Jung
 - Lourdes Montenegro
 - Merve Bulgurcu
-- 
+
 [![Img alt text](https://img.youtube.com/vi/jIL_NhZKyOQ/0.jpg)](https://www.youtube.com/embed/jIL_NhZKyOQ)
 - You can see its interactive plots and figures in the following [Shiny Application](https://marvin-jung.shinyapps.io/NLP-Survey/)
 - Original R script - [NLP-analysis.zip](https://github.com/marvin-jung/Air-France-Business-Case/raw/main/scripts/NLP-analysis.zip)
